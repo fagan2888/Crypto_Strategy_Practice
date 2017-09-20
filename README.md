@@ -1,0 +1,2 @@
+- Practice for writing trading strategies with cryptocurrency data.
+- Will move on to applying machine learning algorithms at a later date.
